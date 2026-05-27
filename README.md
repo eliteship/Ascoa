@@ -1,2 +1,0 @@
-# ASCOA
-For Ascoa
